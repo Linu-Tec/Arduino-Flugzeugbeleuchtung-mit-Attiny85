@@ -1,7 +1,8 @@
 # Arduino-Flugzeugbeleuchtung-mit-Attiny85
 Arduino Flugzeugbeleuchtung mit Attiny85
 
-Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
+Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Flugzeugbeleuchtung_mit_Attiny85_85801747.html
+Und hier noch zu der Passendene Programmierstation: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
 
 Und hier könnt ihr selber Platinen bestellen: https://pcbway.com/g/Bm3OZF
 
@@ -19,12 +20,23 @@ Benötigte Bauteile:
 - 1x IC-Sockel, 8-polig
 
 
+
 Anschlüsse
+
 ATtiny85	LED
-0	Strobe
-1	Beacon
-2	taxi
-3	TakeoffLanding
-4	Runwayturnoff
+
+0	Strobe (Weiß)
+
+1	Beacon (Rot)
+
+2	taxi (Weiß)
+
+3	TakeoffLanding (Weiß)
+
+4	Runwayturnoff (Weiß)
+
 
 INPUT: 5V
+
+
+Video: https://youtu.be/4fTGMJ3oj64
