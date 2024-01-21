@@ -3,9 +3,11 @@ Arduino Flugzeugbeleuchtung mit Attiny85
 
 Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Flugzeugbeleuchtung_mit_Attiny85_85801747.html
 
-Und hier noch zu der Passendene Programmierstation: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
+Und hier noch zu der passenden Programmierstation: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
 
-Und hier könnt ihr selber Platinen bestellen: https://pcbway.com/g/Bm3OZF
+3D-Modell: https://www.printables.com/de/model/731749-arduino-flugzeugbeleuchtung-mit-attiny85
+
+Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https://pcbway.com/g/Bm3OZF
 
 ![PCBWay-logo](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/f9591483-f21d-43ff-ad13-56f694e104a1)
 
