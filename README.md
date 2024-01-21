@@ -39,6 +39,10 @@ ATtiny85	LED
 4	Runwayturnoff (Weiß)
 
 
+![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
+
+
+
 INPUT: 5V
 
 
