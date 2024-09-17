@@ -44,6 +44,18 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 
 ## Positionen der Bauteile 
 
+- R1 Ohm
+- R2 Ohm
+- R3 Ohm
+- R5 Ohm
+- R6 Ohm
+
+- TakeoffLanding Weiß
+- Runwayturnoff Weiß
+- taxi
+- Beacon
+- Strobe
+
 ## Platzierung der Bauteile / LEDs
 ![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
 
