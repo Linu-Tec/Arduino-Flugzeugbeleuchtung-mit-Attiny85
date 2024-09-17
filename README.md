@@ -12,7 +12,7 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 ![PCBWay-logo](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/f9591483-f21d-43ff-ad13-56f694e104a1)
 
 
-Benötigte Bauteile:
+##Benötigte Bauteile:
 - 4x Widerstand 270Ohm
 - 5x Widerstand 150Ohm
 - 1x Widerstand 100Ohm
@@ -24,19 +24,19 @@ Benötigte Bauteile:
 
 
 
-Anschlüsse
+###Anschlüsse
 
-ATtiny85	LED
+- ATtiny85	LED
 
-0	Strobe (Weiß)
+- 0	Strobe (Weiß)
 
-1	Beacon (Rot)
+- 1	Beacon (Rot)
 
-2	taxi (Weiß)
+- 2	taxi (Weiß)
 
-3	TakeoffLanding (Weiß)
+- 3	TakeoffLanding (Weiß)
 
-4	Runwayturnoff (Weiß)
+- 4	Runwayturnoff (Weiß)
 
 
 ![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
