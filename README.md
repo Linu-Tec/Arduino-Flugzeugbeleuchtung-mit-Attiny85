@@ -30,17 +30,19 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 
 ## Anschlüsse
 
-- ATtiny85	LED
+- ATtiny85 - LED
 
-- 0	Strobe (Weiß)
+- 0	Strobe - (Weiß)
 
-- 1	Beacon (Rot)
+- 1	Beacon - (Rot)
 
-- 2	taxi (Weiß)
+- 2	taxi - (Weiß)
 
-- 3	TakeoffLanding (Weiß)
+- 3	TakeoffLanding - (Weiß)
 
-- 4	Runwayturnoff (Weiß)
+- 4	Runwayturnoff - (Weiß)
+
+## Positionen der Bauteile 
 
 ## Platzierung der Bauteile / LEDs
 ![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
