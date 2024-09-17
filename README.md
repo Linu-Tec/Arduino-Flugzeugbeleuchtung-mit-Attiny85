@@ -12,7 +12,7 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 ![PCBWay-logo](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/f9591483-f21d-43ff-ad13-56f694e104a1)
 
 
-##Benötigte Bauteile:
+## Benötigte Bauteile:
 - 4x Widerstand 270Ohm
 - 5x Widerstand 150Ohm
 - 1x Widerstand 100Ohm
@@ -24,7 +24,7 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 
 
 
-###Anschlüsse
+## Anschlüsse
 
 - ATtiny85	LED
 
