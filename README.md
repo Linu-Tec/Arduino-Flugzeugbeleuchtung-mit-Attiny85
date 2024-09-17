@@ -1,11 +1,15 @@
 # Arduino-Flugzeugbeleuchtung-mit-Attiny85
 Arduino Flugzeugbeleuchtung mit Attiny85
 
+## Platinen und Zubehör bestellen / drucken
 Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Flugzeugbeleuchtung_mit_Attiny85_85801747.html
 
 Und hier noch zu der passenden Programmierstation: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
 
 3D-Modell: https://www.printables.com/de/model/731749-arduino-flugzeugbeleuchtung-mit-attiny85
+
+
+## Werbung
 
 Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https://pcbway.com/g/Bm3OZF
 
@@ -38,7 +42,7 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 
 - 4	Runwayturnoff (Weiß)
 
-
+## Platzierung der Bauteile / LEDs
 ![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
 
 
@@ -46,4 +50,5 @@ Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https:/
 INPUT: 5V
 
 
+### Mehr Infos
 Video: https://youtu.be/4fTGMJ3oj64
