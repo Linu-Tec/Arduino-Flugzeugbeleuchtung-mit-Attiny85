@@ -11,7 +11,7 @@ Und hier noch zu der passenden Programmierstation: https://www.pcbway.com/projec
 
 ## Werbung
 
-Und hier könnt ihr selber Platinen bestellen und 5$ geschenkt bekommen: https://pcbway.com/g/Bm3OZF
+Und hier könnt ihr selber Platinen bestellen und bekommt 5$ geschenkt: [PCBWay](https://pcbway.com/g/Bm3OZF)
 
 ![PCBWay-logo](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/f9591483-f21d-43ff-ad13-56f694e104a1)
 
