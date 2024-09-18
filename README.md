@@ -44,17 +44,17 @@ Und hier könnt ihr selber Platinen bestellen und bekommt 5$ geschenkt: [PCBWay]
 
 ## Positionen der Bauteile 
 
-- R1 Ohm
-- R2 Ohm
-- R3 Ohm
-- R5 Ohm
-- R6 Ohm
+- R1 - 100 Ohm
+- R2, R3, R9, R10 - 150Ohm
+- R4, R5, R7, R8 - 270 Ohm
+- R6 - 200 Ohm
 
-- TakeoffLanding Weiß
-- Runwayturnoff Weiß
-- taxi
-- Beacon
-- Strobe
+- IC1 - DIP / SIP Sockets 8P
+
+- LEDGRUENRECHTSPOS - Green LED 3mm
+- LEDROT1.1, LEDROT1.2, LEDROTLINKSPOS - Red LED 3mm
+- LEDWEISS1, LEDWEISS2, LEDWEISS3, LEDLANDINGTAKEOFF1, LEDLANDINGTAKEOFF2, LEDRUNWAYTURNOFF1, LEDRUNWAYTURNOFF2, LEDWINGENGINE1, LEDWINGENGINE2, LEDLOGO1, LEDLOGO2, LEDWEISSPOS, LEDTAXI - White LED 3mm
+
 
 ## Platzierung der Bauteile / LEDs
 ![IMG_20240121_120122](https://github.com/Linu-Tec/Arduino-Flugzeugbeleuchtung-mit-Attiny85/assets/70856050/3a651bb8-5602-49a8-9e55-ddb3e097bd0c)
