@@ -65,4 +65,5 @@ INPUT: 5V
 
 
 ### Mehr Infos
-Video: https://youtu.be/4fTGMJ3oj64
+- [Video](https://youtu.be/4fTGMJ3oj64)
+- [Short](https://youtube.com/shorts/B40T0jMOuBQ?si=_se3UUYKd5Af27QL)
